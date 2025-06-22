@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mrinaldas18/Mrinaldas18/main/Data%20Live%20image.gif" width="100%" alt="Live Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Mrinal Das</h1>
 <h3 align="center">A passionate developer skilled in Java development, cloud technology, and data analytics</h3>
 
