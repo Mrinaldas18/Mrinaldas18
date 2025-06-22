@@ -71,11 +71,11 @@
 ---
 <h3 align="center">🎓 Certifications</h3>
 <p align="center">
-  <a href="https://www.credly.com/badges/your-azure-badge-link">
+  <a href="https://learn.microsoft.com/en-us/users/mrinaldas-4691/credentials/e5f14a54e4a8ca83?ref=https%3A%2F%2Fwww.linkedin.com%2F">
     <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20(AZ--900)-Certified-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
   </a>
   
-  <a href="https://www.netacad.com/">
+  <a href="https://drive.google.com/file/d/1GJ9D0NOE38ch-LQ0vVRjNlh9ENvA9JW3/view?usp=drive_link">
     <img src="https://img.shields.io/badge/CCNA%20Modules%201%2C%202%2C%203-Completed%20via%20Cisco%20Networking%20Academy-green?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Badge"/>
   </a>
 </p>
